@@ -16,9 +16,9 @@ export default function Home() {
       <Hero />
       <Destinations />
       <Tours />
-      {/* <BookingSystem /> */}
+     
       <div className="flex flex-wrap justify-center gap-8">
-        {/* <CurrencyConverter /> */}
+     
         <WeatherWidget />
       </div>
       <InteractiveMap />
